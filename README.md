@@ -1,6 +1,5 @@
 # 💫 About Me:
-Developer focused on video games and experiences, my experience with <br>UPB leaders group has proven my abilities to coexist, lead and <br>collaborate with teams.<br><br>I have gained strong skills in coordinating and executing academic initiatives as the leader of the Organization Committee, and my involvement in the TIC Experimentation Research Group has allowed me to explore my interest in technological innovation.
-
+Developer focused on video games and Virtual Reality Experiences.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adept_keycap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adept-keycap) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Adept_KeyCap) 
